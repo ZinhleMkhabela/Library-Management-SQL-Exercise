@@ -36,9 +36,11 @@ Make sure SQLite is installed on your system.
 Open the SQLite command line or your preferred SQLite editor.
 
 # Execute the scripts in the following order:
-create_tables.sql
-insert_data.sql
-queries.sql
+1. create_tables.sql
+2. insert_data.sql
+3. queries.sql
+
+
 
 # Screenshots
 
