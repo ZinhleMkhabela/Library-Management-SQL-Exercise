@@ -39,3 +39,10 @@ Open the SQLite command line or your preferred SQLite editor.
 create_tables.sql
 insert_data.sql
 queries.sql
+
+#Screenshots
+
+![find out which author has the most books  ](https://github.com/user-attachments/assets/07f3f87c-395c-4579-89e6-86e09445174c)
+![find out how many books there are according to nationality, eg maybe there are 5 books from South African authors and 3 books from Hong Kong  ](https://github.com/user-attachments/assets/ab8ababd-55d6-4515-bff8-0c50728e3015)
+![count how many books there are in total  ](https://github.com/user-attachments/assets/6e6cbd74-05e3-4cd0-aee3-dd9d84740055)
+
