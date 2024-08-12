@@ -26,7 +26,8 @@ queries.sql: Contains SQL queries to analyze the library data.
 
 # Getting Started
 # Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/ZinhleMkhabela/Library-Management-SQL-Exercise.git
+
 
 # Set up SQLite:
 Make sure SQLite is installed on your system.
